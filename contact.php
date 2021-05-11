@@ -3,10 +3,10 @@
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "admin@wrexhamcare.uk");
+	define("__TO__", "info@wecare24x7.co.uk");
 
 	#Message subject
-	define("__SUBJECT__", "wrexhamcare.uk = From:");
+	define("__SUBJECT__", "wecare24x7.co.uk = From:");
 
 	#Success message
 	define('__SUCCESS_MESSAGE__', "Your message has been sent. Thank you!");
